@@ -14,3 +14,5 @@ In your browser, open the file:
 
     /www/index.html
 
+Hoseted here:
+    http://bloodlegion.com/grayrage/Grayrage.html
