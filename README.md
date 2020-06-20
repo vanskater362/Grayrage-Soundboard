@@ -14,5 +14,6 @@ In your browser, open the file:
 
     /www/index.html
 
-Hoseted here:
+Hosted Here:
+
     http://bloodlegion.com/grayrage/Grayrage.html
