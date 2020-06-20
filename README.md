@@ -1,4 +1,4 @@
-# The Grayrage Soundboard
+# The Grayrage Soundboard (NSFW language)
     This is a recreation of the Flash webpage made back in 2005.
     This has been created using HTML5 & CSS. Packaged in Phonegap to be able to push it to a mobile app if desired.
     
